@@ -4,6 +4,5 @@ class Expenses:
         
         self.monthly_allowance = monthly_allowance
    
-jon = Expenses("2300")
-print(jon.monthly_allowance)
+
 
